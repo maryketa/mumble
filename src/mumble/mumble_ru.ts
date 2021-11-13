@@ -8815,7 +8815,7 @@ An access token is a text string, which can be used as a password for very simpl
     </message>
     <message>
         <source>.opus - Lossy compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>.opus - Сжатие с потерями</translation>
     </message>
 </context>
 <context>
